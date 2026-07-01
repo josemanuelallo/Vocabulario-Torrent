@@ -1,0 +1,55 @@
+audiebantur|se oían
+narrantur|se dicen
+dicuntur|se dicen
+pugnatur|se lucha
+itur|se va
+pugnatum est|se luchó
+ventum est|se llegó
+recipiuntur|se retiran
+lavatur|se lava
+proficiscor, -sceris, -sci, profectus sum|ponerse en marcha, partir, marchar
+utor, uteris, uti, usus sum|servirse de, valerse de, usar de
+irascor, -sceris, -sci, iratus sum|encolerizarse, montar en cólera
+revertor, -teris, -ti, reversus sum|darse la vuelta, regresar
+laetor, -aris, -ari, -atus sum|alegrarse
+sequor, -queris, -qui, secutus sum|seguir
+consequor, -queris, -qui, consecutus sum|conseguir, alcanzar
+adsequor (assequor), -queris, -qui, adsecutus sum|alcanzar, obtener
+persequor, -queris, -qui, persecutus sum|perseguir
+conor, -aris, -ari, -atus sum|intentar
+polliceor, -ceris, -ceri, -citus sum|prometer
+patior, -teris, -ti, passus sum|padecer, sufrir
+mentior, -tiris, -tiri, -titus sum|imaginar, inventar, mentir
+sequens, sequentis|que sigue, que seguía, siguiendo
+secuturus, secutura, secuturum|que va a seguir, que seguirá
+sequendus, sequenda, sequendum|que ha de ser seguido
+secuturum esse|ir a seguir
+secutum iri|ir a ser seguido
+sequendum esse|haber de ser seguido
+secuturus sum|voy a seguir
+sequendus sum|he de ser seguido
+reverto, -is, -ere, reverti, reversum|regresar
+revertor, -eris, -rti, -rsus sum|regresar
+audeo, -es, -ere, ausus sum|atreverse
+gaudeo, -es, -ere, gavisus sum|alegrarse, gozar
+soleo, -es, -ere, solitus sum|soler
+fido, -is, -ere, fisus sum|fiarse
+confido, -is, -ere, fisus sum|confiar
+diffido, -is, -ere, fisus sum|desconfiar
+factus, facta, factum|hecho por otro
+sequens|que sigue, que seguía, siguiendo
+secutus, secuta, secutum|que ha seguido, que había seguido, habiendo seguido
+secutum esse|haber seguido
+media, mediae|voz media
+deponens, deponentis|deponente
+semideponens, semideponentis|semideponente
+alimentarse|alimentarse
+defenderse|defenderse
+vestirse|vestirse
+lavarse|lavarse
+retirarse|retirarse
+alimentado|alimentado por otro
+defendido|defendido por otro
+vestido|vestido por otro
+lavado|lavado por otro
+retirado|retirado por otro

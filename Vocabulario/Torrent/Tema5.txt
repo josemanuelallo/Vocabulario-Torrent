@@ -1,0 +1,50 @@
+Magnus, magna, magnum|grande
+Bonus, bona, bonum|bueno
+Longus, longa, longum|largo
+Pulcher, pulchra, pulchrum|hermoso, bello
+Niger, nigra, nigrum|negro
+Miser, misera, miserum|mísero, desdichado
+Dexter, dextra, dextrum|derecho
+Sinister, sinistra, sinistrum|izquierdo
+Verus, vera, verum|verdadero
+Altus, alta, altum|alto, profundo
+Copiosus, copiosa, copiosum|copioso
+Doctus, docta, doctum|sabio, docto
+Amicus, amica, amicum|amigo, amistoso
+Noster, nostra, nostrum|nuestro
+Vere|verdaderamente
+Alte|altamente, profundamente
+Copiose|copiosamente
+Pulchre|bellamente
+Misere|desdichadamente
+Longe|lejos
+Bene|bien
+Male|mal
+Amice|amistosamente
+Docte|sabiamente
+Audio, -is, -ire, -ivi, -itum|oír, escuchar
+Colo, -is, -ere, colui, cultum|cultivar, respetar
+Expugno, -as, -are, -avi, -atum|asaltar, tomar
+Importo, -as, -are, -avi, -atum|traer, producir
+Invenio, -venis, -ire, -veni, -ventum|encontrar
+Moveo, -es, -ere, movi, motum|mover, promover, suscitar
+Pervenio, -venis, -ire, -veni, -ventum|llegar
+Respondeo, -es, -ere, -ndi, -nsum|responder
+Scio, -is, -ire, -ivi, -itum|saber
+Supprimo, -is, -ere, -pressi, -pressum|suprimir, cortar, detener
+Vasto, -as, -are, -avi, -atum|devastar, destruir
+Venio, -is, -ire, -ni, -ntum|ir, acudir, venir, llegar
+Amicitia, -ae|amistad
+Argentum, -i|plata
+Aurum, -i|oro
+Concordia, -ae|concordia, armonía, paz
+Consilium, -ii|consejo, prudencia, proyecto
+Legatus, -i|mensajero
+Miseria, -ae|miseria, desdicha, desgracia
+Odium, -ii|odio
+Thesaurus, -i|tesoro
+Verbum, -i|palabra
+Vicus, -i|aldea, poblado
+Cum|con
+Ibi|allí
+Quia|porque

@@ -1,0 +1,26 @@
+Careo, -es, -ere, carui | carecer de (abl.)
+Debeo, -es, -ere, debui, debitum | deber
+Do, das, dare, dedi, datum | dar
+Habeo, -es, -ere, habui, habitum | tener
+Regno, -as, -are, -avi, -atum | reinar
+Timeo, -es, -ere, timui | temer
+Video, -es, -ere, vidi, visum | ver
+Agricola, -ae | campesino
+Aqua, -ae | agua
+Copia, -ae | abundancia
+Insula, -ae | isla
+Laetitia, -ae | alegría
+Nauta, -ae | marinero, navegante, marino
+Pecunia, -ae | dinero
+Pirata, -ae | pirata
+Poena, -ae | castigo
+Poeta, -ae | poeta
+Regina, -ae | reina
+Rosa, -ae | rosa
+Silva, -ae | selva, bosque
+Terra, -ae | tierra
+Multa, -ae | mucha
+Vasta, -ae | vasta, extensa
+In (prep. de abl.) | en
+In (prep. de ac.) | a
+Non (adv. neg.) | no

@@ -1,0 +1,171 @@
+facile|fácilmente
+impune|impunemente
+subito|súbitamente, de pronto
+merito|merecidamente, con razón
+secreto|secretamente, en secreto, aparte
+falso|falsamente
+necessario|necesariamente
+forte|casualmente, por casualidad
+gratis|gratuitamente, gratis
+iure|con derecho, en justicia, con razón
+iniuria|injustamente, sin razón
+partim|en parte
+paulatim|paulatinamente, poco a poco
+ut (uti)|como
+sicut (sicuti)|como
+velut (veluti)|como
+tamquam|como
+sic|así
+ita|así
+frustra|inútilmente, en vano
+multum|mucho
+multo|mucho
+parum|poco
+paulum|un poco
+aliquantum|algo
+satis|bastante
+nimis|demasiado
+prope|casi
+paene|casi
+solum|solamente
+modo|solamente
+plus|más
+magis|más
+plurimum|muchísimo
+maxime|muchísimo, desde luego
+minus|menos
+minime|muy poco, de ningún modo
+vix|apenas, a duras penas
+tam|tan
+tantum|tanto, solamente
+quam|como, que
+quantum|cuanto, como
+semel|una vez
+bis|dos veces
+ter|tres veces
+quater|cuatro veces
+quinquies|cinco veces
+decies|diez veces
+centies|cien veces
+millies|mil veces
+toties|tantas veces
+quoties|cuantas veces
+ubi|donde
+hic|aquí
+ibi|allí
+ibidem|allí mismo
+unde|de donde
+hinc|de aquí
+inde|de allí
+indidem|de allí mismo
+qua|por donde
+qua|a donde
+hac|por aquí
+ea|por allí
+eadem|por allí mismo
+huc|aquí, a este lugar
+eo|allí, a ese lugar
+eodem|al mismo sitio
+procul|lejos
+passim|por todas partes
+undique|de todas partes, por todas partes
+utrimque|de ambas partes, por ambas partes
+hodie|hoy
+heri|ayer
+cras|mañana
+pridie|la víspera
+postridie|al día siguiente
+cotidie|cada día
+quotannis|cada año
+primo|primero
+primum|primero, por primera vez
+deinde|después
+interea|entre tanto
+interim|entre tanto
+postea|después
+post|después
+iam|ya
+nunc|ahora
+tunc|entonces
+tum|entonces
+numquam|nunca
+semper|siempre
+saepe|a menudo
+simul|al mismo tiempo
+statim|inmediatamente
+postremo|por último
+tandem|por fin, por último
+denique|por fin, por último
+prius|antes
+antea|antes
+ante|antes
+mox|en seguida
+brevi|en breve, en poco tiempo
+diu|largo tiempo, de día
+noctu|de noche
+mane|por la mañana
+quondam|en otro tiempo, una vez
+nondum|todavía no
+rursus|de nuevo
+iterum|de nuevo
+prius quam|antes que, antes de que
+ante quam|antes que, antes de que
+antea quam|antes que, antes de que
+post quam|después que, después de que
+postea quam|después que, después de que
+etiam|también, incluso
+quoque|también
+item|asimismo
+quidem|ciertamente
+certe|ciertamente
+profecto|con seguridad
+certo|con seguridad
+maxime|desde luego
+ita|sí, así
+sic|sí, así
+non|no
+haud|no
+ne|no
+minime|de ningún modo
+nequaquam|de ningún modo
+ne... quidem|ni siquiera, tampoco
+fors, fortis|fortuna, casualidad
+gratia, -ae|gracia, favor
+ius, iuris|derecho
+potes huc venire?|¿puedes venir aquí?
+possum|sí, puedo
+habesne librum?|¿tienes el libro?
+habeo|sí, tengo
+comperio, -is, -ire, comperi, compertum|averiguar, enterarse de, comprobar
+finitimus, finitima, finitimum|vecino, limítrofe
+habito, -as, -are, -avi, -atum|habitar, vivir
+moveo, -es, -ere, movi, motum|mover
+audio, -is, -ire, audivi, auditum|oír
+venio, -is, -ire, veni, ventum|venir
+abeo, -is, -ire, abii, abitum|irse, alejarse
+revertor, -teris, -ti, reversus sum|regresar
+Roma, -ae|Roma
+Athenae, -arum|Atenas
+Hispania, -ae|España
+frater, fratris|hermano
+consilium, -ii|consejo, decisión
+Helvetii, -orum|los helvecios
+civitas, civitatis|ciudad, estado, pueblo
+bellum, -i|guerra
+Allobroges, -um|los alóbroges
+fructus, -us|fruto
+fames, famis|hambre
+copia, -ae|abundancia, recursos
+frumenti copiam facere|abastecer de trigo
+oppidum, -i|ciudad fortificada
+vicus, -i|aldea
+incendo, -is, -ere, incendi, incensum|incendiar, quemar
+restituo, -is, -ere, restitui, restitutum|restablecer, reconstruir
+vaco, -as, -are, -avi, -atum|estar vacío
+bonitas, bonitatis|fertilidad, bondad
+ager, agri|campo
+Germani, -orum|los germanos
+Rhenus, -i|Rin
+incolo, -is, -ere, incolui|habitar
+transeo, -is, -ire, transii, transitum|atravesar
+Gallia, -ae|Galia

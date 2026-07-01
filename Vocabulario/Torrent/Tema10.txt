@@ -1,0 +1,73 @@
+Accipio, -cipis, -ere, -cepi, -ceptum|recibir, aceptar, acoger
+Constituo, -is, -ere, -tui, -tutum|constituir, establecer, fijar, decidir
+Curro, -is, -ere, cucurri, cursum|correr
+Fugo, -as, -are, -avi, -atum|ahuyentar, espantar, poner en fuga
+Gero, -is, -ere, gessi, gestum|llevar, hacer
+Nosco, -is, -ere, novi, notum|enterarse de, conocer, saber
+Quaero, -is, -ere, quaesivi, quaesitum|buscar, pretender, preguntar
+Relinquo, -is, -ere, reliqui, relictum|dejar, abandonar
+Acies, -ei|línea de batalla
+Adversus, adversa, adversum|adverso, contrario
+Alexander, -dri|Alejandro
+Beneficium, -ii|beneficio, favor
+Certus, certa, certum|cierto, seguro, fijo, determinado
+Dies, -ei|día, fecha
+Difficilis, difficile|difícil
+Dissimilis, dissimile|diferente
+Facies, -ei|faz, rostro
+Familiaris, familiare|familiar
+Fides, -ei|fe, confianza, lealtad
+Gracilis, gracile|grácil, esbelto
+Graecus, graeca, graecum|griego
+Homo, hominis|hombre, persona
+Humilis, humile|humilde, bajo
+Idoneus, idonea, idoneum|idóneo, adecuado
+Inopia, -ae|escasez
+Necessarius, necessaria, necessarium|necesario
+Nomen, nominis|nombre
+Pauper, pauperis|pobre
+Pax, pacis|paz
+Pius, pia, pium|pío, piadoso
+Propinquus, propinqua, propinquum|cercano
+Res, rei|cosa
+Rex, regis|rey
+Sapiens, sapientis|sabio
+Similis, simile|semejante
+Socrates, -tis|Sócrates
+Spes, spei|esperanza
+Timor, timoris|miedo, temor
+Utilis, utile|útil
+A|de, desde
+Ab|de, desde
+Adversus|contra
+Antea|antes
+Autem|pero, por otra parte
+Haud|no
+Hodie|hoy
+Nec|y no, ni
+Neque|y no, ni
+Quod|porque
+Quia|porque
+Tamen|sin embargo
+Maledicus, maledica, maledicum|maldiciente
+Beneficus, benefica, beneficum|benéfico
+Benevolus, benevola, benevolum|benévolo
+Bonus, bona, bonum|bueno
+Malus, mala, malum|malo
+Magnus, magna, magnum|grande
+Parvus, parva, parvum|pequeño
+Multi, multae, multa|muchos
+Vetus, veteris|viejo
+Propinquus, propinqua, propinquum|cercano
+Strenuus, strenua, strenuum|valeroso
+Idoneus, idonea, idoneum|idóneo, adecuado
+Pius, pia, pium|pío, piadoso
+Facilis, facile|fácil
+Difficilis, difficile|difícil
+Similis, simile|semejante
+Dissimilis, dissimile|desemejante
+Humilis, humile|humilde, bajo
+Gracilis, gracile|grácil, esbelto
+Pulcher, pulchra, pulchrum|bello
+Miser, misera, miserum|desdichado
+Celer, celeris, celere|rápido

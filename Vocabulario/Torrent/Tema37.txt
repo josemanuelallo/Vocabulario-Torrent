@@ -1,0 +1,77 @@
+estilo directus|estilo directo
+estilo indirectus|estilo indirecto
+inquam|digo
+inquis|dices
+inquit|dice
+inquiunt|dicen
+inquiebat|decía
+inquies|dirás
+inquiet|dirá
+inquisti|dijiste
+aio|digo
+ais|dices
+ait|dice
+aiunt|dicen
+aiebam|decía
+aiebas|decías
+aiebat|decía
+aiebamus|decíamos
+aiebatis|decíais
+aiebant|decían
+ut aiunt|como dicen, como suele decirse
+quaeso|ruego, por favor
+quaesumus|rogamos, por favor
+dic quaeso|dime, por favor
+dic nobis quaesumus|dinos, por favor
+animadverto, -is, -ere, animadverti, animversum|notar, observar, darse cuenta de
+nihil|nada
+ceteri, -orum|los demás
+supra|por encima de
+Graeci, -orum|los griegos
+efficio, -is, -ere, effeci, effectum|realizar, llevar a cabo, conseguir
+scribo, -is, -ere, scripsi, scriptum|escribir
+liber, libri|libro
+quoniam|porque
+res publica|república
+nonnulli, -ae, -a|algunos
+miles, militis|soldado
+silva, -ae|bosque
+discedo, -is, -ere, discessi, discessum|apartarse, alejarse
+eques, equitis|jinete
+adventus, -us|llegada
+repentinus, repentina, repentinum|repentino
+opprimo, -is, -ere, oppressi, oppressum|oprimir, reprimir, agobiar, aplastar, sorprender
+oppressus, oppressa, oppressum|sorprendido, aplastado
+polliceor, -ceris, -ceri, pollicitus sum|prometer
+praemium, -ii|premio
+do, das, dare, dedi, datum|dar
+studium, -ii|estudio, afición, aplicación
+conficio, -ficis, -ere, confeci, confectum|terminar, realizar
+rex, regis|rey
+animal, animalis|animal
+praeda, -ae|botín, presa
+pars, partis|parte
+nomino, -as, -are, -avi, -atum|llamar, nombrar
+legatus, -i|embajador
+iter facere|hacer el camino, marchar
+volo, vis, velle, volui|querer
+alius, alia, aliud|otro
+respondeo, -es, -ere, respondi, responsum|responder
+dies, diei|día
+delibero, -as, -are, -avi, -atum|deliberar, reflexionar
+sumo, -is, -ere, sumpsi, sumptum|tomar, asumir
+umquam|alguna vez
+umquam (en frase negativa)|nunca
+impero, -as, -are, -avi, -atum|ordenar
+fortiter|valientemente
+defendo, -is, -ere, defendi, defensum|defender
+auxilium, -ii|auxilio, ayuda, refuerzo
+venio, -is, -ire, veni, ventum|venir
+exspecto, -as, -are, -avi, -atum|esperar
+bona spes|confianza, buena esperanza
+habete bonam spem|tened confianza
+animal, animalis|animal
+repentinus, repentina, repentinum|repentino
+delibero, -as, -are, -avi, -atum|deliberar, reflexionar
+opprimo, -is, -ere, oppressi, oppressum|oprimir, reprimir, agobiar, aplastar, sorprender
+sumo, -is, -ere, sumpsi, sumptum|tomar, asumir

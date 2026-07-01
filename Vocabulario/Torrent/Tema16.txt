@@ -1,0 +1,41 @@
+idem, eadem, idem|el mismo
+ipse, ipsa, ipsum|mismo; yo mismo, tú mismo, él mismo
+alius, alia, aliud|otro
+alter, altera, alterum|el otro, el segundo
+totus, tota, totum|todo, entero
+solus, sola, solum|solo
+ullus, ulla, ullum|alguno
+nullus, nulla, nullum|ninguno
+nonnullus, nonnulla, nonnullum|alguno
+nihil|nada
+nemo|nadie
+quis, qua, quid|alguien, alguno, algo
+qui, qua, quod|algún, alguno
+aliquis, aliqua, aliquid (aliquod)|alguien, alguno, algo
+quidam, quaedam, quiddam (quoddam)|cierto, uno, alguno
+quisque, quaeque, quidque (quodque)|cada uno
+quivis, quaevis, quidvis (quodvis)|cualquiera
+quilibet, quaelibet, quidlibet (quodlibet)|cualquiera
+neuter, neutra, neutrum|ni uno ni otro, ninguno de los dos
+uterque, utraque, utrumque|uno y otro, los dos
+tot... quot|tantos... cuantos
+tantus, tanta, tantum|tan grande... como
+qualis, quale|cual, como
+talis, tale|tal, cual
+adiuvo, -as, -are, -iuvi, -iutum|ayudar
+contemno, -is, -ere, contempsi, contemptum|despreciar
+maneo, -es, -ere, mansi, mansum|permanecer, quedarse
+sustineo, -tines, -ere, tinui, tentum|sostener, contener, retener
+vigilo, -as, -are, -avi, -atum|velar, estar despierto, vigilar
+laetus, laeta, laetum|alegre
+patria, -ae|patria
+provincia, -ae|provincia
+valetudo, valetudinis|salud
+vulnus, vulneris|herida
+nisi|si no
+nisi|sino
+inter nos|entre nosotros
+inter vos|entre vosotros
+inter se|entre sí
+alius... alius...|uno... otro...
+alter... alter...|el uno... el otro...

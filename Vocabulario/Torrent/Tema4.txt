@@ -1,0 +1,36 @@
+Aedifico, -as, -are, -avi, -atum|edificar, construir
+Habito, -as, -are, -avi, -atum|habitar
+Lego, -is, -ere, legi, lectum|leer, elegir
+Mitto, -is, -ere, misi, missum|enviar
+Saluto, -as, -are, -avi, -atum|saludar
+Adversarius, -ii|enemigo, adversario
+Ager, agri|campo
+Amicus, -i|amigo
+Arma, -orum|armas
+Auxilium, -ii|auxilio, ayuda
+Auxilia, -orum|refuerzos, tropas auxiliares
+Bellum, -i|guerra
+Castra, -orum|campamento
+Deus, dei|dios
+Dominus, -i|señor, amo, dueño
+Filius, -ii|hijo
+Humus, -i|suelo, tierra
+Liber, libri|libro
+Locus, -i|lugar, sitio, puesto
+Magnus, -i|grande
+Militia, -ae|milicia, campaña, guerra
+Multus, -i|mucho
+Murus, -i|muro, muralla
+Nostra, -ae|nuestra
+Numerus, -i|número
+Oppidum, -i|ciudad, plaza, fortaleza
+Patientia, -ae|paciencia
+Populus, -i|pueblo
+Puer, pueri|niño
+Romanus, -i|romano
+Saguntum, -i|Sagunto
+Servus, -i|esclavo
+Templum, -i|templo
+Vir, viri|hombre (varón)
+Mane|por la mañana
+-que|y

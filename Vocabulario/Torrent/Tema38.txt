@@ -1,0 +1,90 @@
+ab urbe condita|desde la fundación de la ciudad
+conditus, condita, conditum|fundado
+consul, consulis|cónsul
+consulibus|siendo cónsules, durante el consulado de
+tria nomina|tres nombres
+praenomen, praenominis|nombre de pila
+nomen, nominis|nombre de familia, apellido
+gens, gentis|familia, linaje
+cognomen, cognominis|sobrenombre, segundo apellido
+Aulus, -i|Aulo
+Appius, -ii|Apio
+Caius, -ii|Gayo
+Cnaeus, -ii|Gneo
+Decimus, -ii|Décimo
+Lucius, -ii|Lucio
+Manius, -ii|Manio
+Publius, -ii|Publio
+Quintus, -ii|Quinto
+Sextus, -ii|Sexto
+Spurius, -ii|Espurio
+Titus, -ii|Tito
+Tiberius, -ii|Tiberio
+Marcus, -ii|Marco
+Martius, -ii|marzo
+Aprilis, Aprilis|abril
+Maius, -ii|mayo
+Iunius, -ii|junio
+Quintilis, Quintilis|julio
+Iulius, -ii|julio
+Sextilis, Sextilis|agosto
+Augustus, -i|agosto
+September, Septembris|septiembre
+October, Octobris|octubre
+November, Novembris|noviembre
+December, Decembris|diciembre
+Ianuarius, -ii|enero
+Februarius, -ii|febrero
+Kalendae, -arum|calendas, día primero del mes
+Nonae, -arum|nonas
+Idus, -uum|idus
+Kalendis Septembribus|el 1 de septiembre
+Nonis Aprilibus|el 5 de abril
+Idibus Maiis|el 15 de mayo
+pridie|la víspera de
+pridie Kalendas Ianuarias|la víspera de las calendas de enero (31 de diciembre)
+pridie Nonas Martias|la víspera de las nonas de marzo (6 de marzo)
+pridie Idus Iunias|la víspera de los idus de junio (12 de junio)
+ante diem tertium Idus Octobres|dos días antes de los idus de octubre (13 de octubre)
+ante diem quartum Nonas Novembres|tres días antes de las nonas de noviembre (2 de noviembre)
+ante diem sextum Kalendas Martias|cinco días antes de las calendas de marzo (24 de febrero)
+bis sextum|sexto repetido, bisiesto
+prima hora|primera hora
+secunda hora|segunda hora
+tertia hora|tercera hora
+prima vigilia|primera vigilia
+secunda vigilia|segunda vigilia
+tertia vigilia|tercera vigilia
+quarta vigilia|cuarta vigilia
+meridies, meridiei|mediodía
+media nox|medianoche
+comparo, -as, -are, -avi, -atum|preparar, disponer, reunir, comprar
+convenio, -venis, -ire, conveni, conventum|acudir, reunirse, convenir
+devinco, -is, -ere, devici, devictum|derrotar, vencer, someter
+obtineo, -tines, -ere, obtinui, obtentum|obtener, mantener, ocupar
+consulatus, -us|consulado
+custos, custodis|guardián, vigilante, centinela
+Zama, -ae|Zama
+item|también, asimismo
+hortus, -i|jardín
+amenitas, amenitatis|amenidad
+vigilia, -ae|turno de vela, vigilia
+pontem facere|construir un puente
+pontem faciendum curare|encargarse de construir un puente
+traducere exercitum|hacer pasar el ejército al otro lado
+certior factus est|fue informado, se enteró
+commoveo, -es, -ere, commovi, commotum|conmover, inquietar
+aegerrime|con muchísima dificultad
+intellego (intelligo), -is, -ere, intellexi, intellectum|entender, comprender
+legatus, -i|embajador
+pax non convenit|la paz no se acordó, no hubo acuerdo
+cohortor, -aris, -ari, -atus sum|animar, exhortar
+proelium, -ii|combate, batalla
+committo, -is, -ere, commisi, commissum|entablar, trabar
+acriter|encarnizadamente, vigorosamente
+impetus, -us|ataque, ímpetu
+recipio, -is, -ere, recepi, receptum|retirarse, replegarse
+impedimenta, -orum|bagajes
+carrus, -i|carro
+potior, -iris, -iri, potitus sum|apoderarse de, adueñarse de
+multa nox|altas horas de la noche

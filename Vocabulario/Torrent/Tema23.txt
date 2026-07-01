@@ -1,0 +1,54 @@
+ut|que
+quod|que
+ne|que no
+quominus|que (tras verbos de impedir o prohibir)
+quin|que
+timeo ne|temo que
+timeo ut|temo que no
+rogo ut|ruego que
+rogo ne|ruego que no
+oportet|conviene, es necesario
+quaero|pregunto
+rogo|pregunto
+interrogo|pregunto
+ubi|dónde
+quis|quién
+cur|por qué
+unde|de dónde
+num|si
+-ne|si
+nonne|si no
+utrum... an...|si... o...
+quam|cuán, qué
+facile|fácilmente
+discedo, -is, -ere, discessi, discessum|alejarse, apartarse, salir
+dubito, -as, -are, -avi, -atum|dudar
+interrogo, -as, -are, -avi, -atum|interrogar, preguntar
+levo, -as, -are, -avi, -atum|aligerar, aliviar
+oportet, -ere, -uit|convenir, ser oportuno, ser necesario
+ostendo, -is, -ere, ostendi, ostentum|mostrar, indicar, decir
+prohibeo, -es, -ere, prohibui, prohibitum|impedir, prohibir
+rogo, -as, -are, -avi, -atum|rogar, pedir, preguntar
+aedificium, -ii|edificio
+Cicero, Ciceronis|Cicerón
+iustus, iusta, iustum|justo
+mirus, mira, mirum|admirable, sorprendente
+regnum, -i|reino
+salvus, salva, salvum|indemne, sano y salvo
+sententia, -ae|opinión, sentencia
+Tarquinius, -ii|Tarquino
+terribilis, terribile|terrible
+vulnus, vulneris|herida
+inopia, -ae|escasez, pobreza
+copia, -ae|abundancia
+equitatus, -us|caballería
+adiuvo, -as, -are, adiuvi, adiutum|ayudar
+ago, -is, -ere, egi, actum|hacer
+habito, -as, -are, -avi, -atum|habitar, vivir
+venio, -is, -ire, veni, ventum|venir
+vinco, -is, -ere, vici, victum|vencer
+bonus, bona, bonum|bueno
+malus, mala, malum|malo
+rem publicam servare|salvar la república
+rem publicam salvam esse|que la república esté sana y salva
+mirum est|es admirable

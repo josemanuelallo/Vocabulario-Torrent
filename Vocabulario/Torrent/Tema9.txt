@@ -1,0 +1,33 @@
+Capio, -is, -ere, cepi, captum|coger, tomar, conquistar, capturar
+Contineo, -tines, -ere, tinui, tentum|contener, detener, impedir
+Facio, -is, -ere, feci, factum|hacer, efectuar, construir
+Firmo, -as, -are, -avi, -atum|reforzar, robustecer
+Iacio, -is, -ere, ieci, iactum|lanzar, arrojar
+Vulnero, -as, -are, -avi, -atum|herir, vulnerar
+Clarus, clara, clarum|claro, brillante, esclarecido, ilustre, famoso
+Cornu, -us|cuerno, ala (del ejército)
+Dux, ducis|jefe, guía, caudillo, general
+Eques, equitis|jinete, soldado de caballería, caballero
+Equester, equestris, equestre|ecuestre, de caballería
+Equitatus, -us|caballería
+Equus, -i|caballo
+Facilis, facile|fácil
+Firmus, firma, firmum|sólido, fuerte
+Fuga, -ae|fuga, huida
+Genus, generis|género, clase, raza
+Impetus, -us|ímpetu, empuje, ataque
+Infirmus, infirma, infirmum|débil, flojo
+Iussu|por orden, por mandato
+Iniussu|sin mandato, sin orden
+Manus, -us|mano, tropa
+Natu|por el nacimiento
+Pedes, peditis|soldado de a pie, infante
+Pedester, pedestris, pedestre|pedestre, de a pie, de infantería
+Peditatus, -us|infantería
+Pes, pedis|pie
+Pretiosus, pretiosa, pretiosum|valioso
+Telum, -i|proyectil, arma arrojadiza, dardo, arma ofensiva
+Magis|más
+Minus|menos
+Quam|que, como
+Tam|tan

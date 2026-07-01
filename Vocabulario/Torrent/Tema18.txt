@@ -1,0 +1,28 @@
+-r|desinencia pasiva de primera persona singular
+-ris, -re|desinencia pasiva de segunda persona singular
+-tur|desinencia pasiva de tercera persona singular
+-mur|desinencia pasiva de primera persona plural
+-mini|desinencia pasiva de segunda persona plural
+-ntur|desinencia pasiva de tercera persona plural
+agens, agentis|agente, que actúa
+patiens, patientis|paciente, que padece, que sufre la acción
+deleo, -es, -ere, delevi, deletum|destruir
+libero, -as, -are, -avi, -atum|liberar
+tempto (tento), -as, -are, -avi, -atum|tentar, probar, intentar
+turbo, -as, -are, -avi, -atum|turbar, perturbar, enturbiar
+agnus, -i|cordero
+barbari, -orum|los bárbaros
+captivus, -i|prisionero
+Carthaginienses, -sium|los cartagineses
+gladius, -ii|espada
+liberi, -orum|los hijos
+lupus, -i|lobo
+medius, media, medium|medio, intermedio, central
+nex, necis|muerte
+obsidio, obsidionis|asedio
+Sicilia, -ae|Sicilia
+socius, -ii|aliado, compañero
+studium, -ii|afán, deseo, entusiasmo, afición
+summus, summa, summum|sumo, supremo, altísimo, muy grande
+uxor, uxoris|esposa
+a, ab|por (con complemento agente de persona)

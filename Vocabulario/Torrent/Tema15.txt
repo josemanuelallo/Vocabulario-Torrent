@@ -1,0 +1,45 @@
+num|¿acaso?, ¿es que?
+nonne|¿acaso no?, ¿es que no?
+-ne|(partícula interrogativa)
+an|pero ¿es que?
+utrum|¿cuál de las dos cosas?, ¿si acaso?
+maxime|desde luego, sí
+ita|así, sí
+sane|bien, sí
+certe|ciertamente, sí
+ubi|¿dónde?
+unde|¿de dónde?
+quo|¿adónde?
+qua|¿por dónde?
+quando|¿cuándo?
+quomodo|¿cómo?
+cur|¿por qué?
+qua re|¿por qué?, ¿por qué cosa?
+quamobrem|¿por qué?, ¿por qué cosa?
+qui, quae, quod|qué, cuál
+quis, quae, quid|quién, qué
+uter, utra, utrum|cuál de los dos
+utrius|de cuál de los dos
+utri|a cuál de los dos
+quot|cuántos
+quantus, quanta, quantum|cuánto, qué grande, qué intenso
+cogito, -as, -are, -avi, -atum|pensar
+concurro, -is, -ere, concurri, concursum|concurrir, acudir
+credo, -is, -ere, credidi, creditum|creer
+exspecto, -as, -are, -avi, -atum|esperar, aguardar
+fugio, -is, -ere, fugi|huir
+intro, -as, -are, -avi, -atum|entrar
+nego, -as, -are, -avi, -atum|negar
+discipulus, -i|discípulo, alumno
+leo, leonis|león
+publicus, publica, publicum|público
+res publica|república, estado, asunto público
+tristis, triste|triste, lamentable
+ventus, -i|viento
+super|sobre
+castra movere|levantar el campamento
+bonus, bona, bonum|bueno
+malus, mala, malum|malo
+vivus, viva, vivum|vivo
+sapientior, sapientius|más sabio
+altus, alta, altum|alto

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "CSS"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "Vocabulario"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vocabulario"
+	}
+}

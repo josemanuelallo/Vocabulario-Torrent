@@ -1,0 +1,39 @@
+mitto, -is, -ere, misi, missum|enviar
+capio, -is, -ere, cepi, captum|coger, tomar, capturar
+audio, -is, -ire, audivi, auditum|oír
+cogo, -is, -ere, coegi, coactum|obligar, reunir
+expello, -is, -ere, expuli, expulsum|expulsar, desalojar
+fatigo, -as, -are, -avi, -atum|fatigar, cansar, extenuar
+impedio, -is, -ire, impedivi (-ii), impeditum|impedir, estorbar
+incido, -is, -ere, incidi|caer
+induco, -is, -ere, induxi, inductum|inducir, llevar, introducir
+irrumpo, -is, -ere, irrupi, irruptum|irrumpir, entrar violentamente
+repello, -is, -ere, repuli, repulsum|repeler, rechazar
+teneo, -es, -ere, tenui, tentum|tener, retener, sostener, sujetar
+agmen, agminis|columna (de ejército), ejército en marcha
+arbor, arboris|árbol
+cavea, -ae|cávea, graderío del teatro
+ceterus, cetera, ceterum|restante, demás
+civitas, civitatis|población, pueblo
+defensor, defensoris|defensor
+discordia, -ae|discordia, desavenencia, enemistad
+forum, -i|foro, plaza, mercado, tribunal
+imus, ima, imum|muy bajo, el más bajo, la parte baja de
+medius, media, medium|medio, intermedio, central
+munitio, munitionis|fortificación, construcción
+saxum, -i|roca, piedra grande
+senatus, -us|senado
+summus, summa, summum|muy alto, altísimo, el más alto, sumo, supremo, extraordinario, intenso
+summus mons|lo alto del monte, la cima, la cumbre
+summa cavea|parte alta del graderío
+cavea media|parte intermedia del graderío
+ima cavea|parte baja del graderío
+in provinciam intrare|entrar en la provincia
+in hostium aciem irrumpere|irrumpir en la línea de los enemigos
+in civitatem discordiam inducere|introducir la discordia en la población
+in insidias incidere|caer en una trampa
+unum in locum|en un solo lugar
+in medios hostes|en medio de los enemigos
+media nocte|a media noche
+medio in foro|en medio del foro
+et cetera|y las demás cosas, y demás

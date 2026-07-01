@@ -1,0 +1,80 @@
+unus, una, unum|uno
+duo, duae, duo|dos
+tres, tria|tres
+quattuor|cuatro
+quinque|cinco
+sex|seis
+septem|siete
+octo|ocho
+novem|nueve
+decem|diez
+undecim|once
+duodecim|doce
+tredecim|trece
+quattuordecim|catorce
+quindecim|quince
+sedecim|dieciséis
+septendecim|diecisiete
+duodeviginti|dieciocho
+undeviginti|diecinueve
+viginti|veinte
+primus, prima, primum|primero
+secundus, secunda, secundum|segundo
+tertius, tertia, tertium|tercero
+quartus, quarta, quartum|cuarto
+quintus, quinta, quintum|quinto
+sextus, sexta, sextum|sexto
+septimus, septima, septimum|séptimo
+octavus, octava, octavum|octavo
+nonus, nona, nonum|noveno
+decimus, decima, decimum|décimo
+undecimus, undecima, undecimum|undécimo
+duodecimus, duodecima, duodecimum|duodécimo
+tertius decimus|decimotercero
+quartus decimus|decimocuarto
+quintus decimus|decimoquinto
+sextus decimus|decimosexto
+septimus decimus|decimoséptimo
+duodevicesimus, duodevicesima, duodevicesimum|decimoctavo
+undevicesimus, undevicesima, undevicesimum|decimonoveno
+vicesimus, vicesima, vicesimum|vigésimo
+ambo, ambae, ambo|ambos
+singuli, singulae, singula|de uno en uno, uno cada uno, sendos
+bini, binae, bina|de dos en dos, dos cada uno
+terni, ternae, terna|de tres en tres, tres cada uno
+quaterni, quaternae, quaterna|de cuatro en cuatro, cuatro cada uno
+quini, quinae, quina|de cinco en cinco, cinco cada uno
+deni, denae, dena|de diez en diez, diez cada uno
+centeni, centenae, centena|de cien en cien, cien cada uno
+simplex, simplicis|simple
+duplex, duplicis|doble
+triplex, triplicis|triple
+semel|una vez
+bis|dos veces
+ter|tres veces
+quater|cuatro veces
+quinquiens|cinco veces
+sexiens|seis veces
+septiens|siete veces
+deciens|diez veces
+centiens|cien veces
+milliens|mil veces
+totiens|tantas veces
+quotiens|cuantas veces
+cado, -is, -ere, cecidi, casum|caer, sucumbir, morir
+consto, -as, -are, -stiti|constar
+disto, -as, -are|distar
+munio, -is, -ire, -ivi (-ii), -itum|fortificar
+procedo, -is, -ere, -cessi, -cessum|avanzar
+fossa, -ae|foso, fosa, zanja
+latus, lata, latum|ancho, extenso, lato
+obses, obsidis|rehén
+passus, -us|paso
+pons, pontis|puente
+Sequana, -ae|Sena
+sestertius, -ii|sestercio
+virtus, virtutis|valor, virtud, mérito
+e|de, desde, fuera de
+ex|de, desde, fuera de
+primum|primero, al principio
+primo|primero, al principio

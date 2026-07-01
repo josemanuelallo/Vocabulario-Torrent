@@ -1,0 +1,43 @@
+amans, amantis|que ama, que amaba, amando
+habens, habentis|que tiene, que tenía, teniendo
+mittens, mittentis|que envía, que enviaba, enviando
+capiens, capientis|que coge, que cogía, cogiendo
+audiens, audientis|que oye, que oía, oyendo
+amatus, amata, amatum|amado
+habitus, habita, habitum|tenido
+missus, missa, missum|enviado
+captus, capta, captum|capturado, cogido
+auditus, audita, auditum|oído
+amaturus, amatura, amaturum|que va a amar
+habiturus, habitura, habiturum|que va a tener
+missurus, missura, missurum|que va a enviar
+capturus, captura, capturum|que va a capturar
+auditurus, auditura, auditurum|que va a oír
+futurus, futura, futurum|que va a ser, futuro
+amandus, amanda, amandum|que ha de ser amado
+habendus, habenda, habendum|que ha de ser tenido
+mittendus, mittenda, mittendum|que ha de ser enviado
+capiendus, capienda, capiendum|que ha de ser capturado
+audiendus, audienda, audiendum|que ha de ser oído
+amitto, -is, -ere, amisi, amissum|perder
+impono, -is, -ere, imposui, impositum|imponer, poner
+iubeo, -es, -ere, iussi, iussum|mandar, ordenar
+iussum, -i|mandato
+perdo, -is, -ere, perdidi, perditum|perder
+probo, -as, -are, -avi, -atum|probar, aprobar
+recupero, -as, -are, -avi, -atum|recobrar, recuperar
+reficio, -ficis, -ere, refeci, refectum|rehacer, reparar, reconstruir
+rumpo, -is, -ere, rupi, ruptum|romper
+subigo, -is, -ere, subegi, subactum|someter
+clamor, clamoris|clamor, griterío
+corpus, corporis|cuerpo
+etruscus, etrusca, etruscum|etrusco
+ingens, ingentis|ingente, muy grande
+nummus, -i|moneda
+responsum, -i|respuesta
+ave|hola, salud
+urbs capta|ciudad conquistada
+milites pugnantes|soldados que luchan, soldados que luchaban
+dictum, -i|palabra, dicho
+factum, -i|hecho
+legatus, -i|mensajero, legado

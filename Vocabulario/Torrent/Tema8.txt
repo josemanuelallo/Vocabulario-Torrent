@@ -1,0 +1,41 @@
+Committo, -is, -ere, commisi, commissum|cometer, unir, trabar
+Narro, -as, -are, -avi, -atum|narrar, contar
+Pono, -is, -ere, posui, positum|poner, situar, instalar
+Acer, acris, acre|duro, violento, cruel, agudo
+Acriter|duramente, encarnizadamente
+Brevis, breve|breve, corto
+Canis, canis|perro
+Celer, celeris, celere|rápido
+Celeriter|rápidamente
+Diligens, diligentis|diligente, activo
+Diligenter|diligentemente
+Febris, -is|fiebre
+Felix, felicis|feliz
+Feliciter|felizmente
+Fortis, forte|esforzado, valeroso
+Fortiter|valerosamente
+Frater, fratris|hermano
+Hostis, hostis|enemigo
+Iuvenis, iuvenis|joven
+Legio, -onis|legión
+Lux, lucis|luz
+Mare, maris|mar
+Mater, matris|madre
+Mons, montis|monte
+Nox, noctis|noche
+Omnis, omne|todo
+Pars, partis|parte
+Plenus, plena, plenum|lleno
+Primus, prima, primum|primero
+Proelium, -ii|combate, batalla
+Prudens, prudentis|prudente
+Prudenter|prudentemente
+Senex, senis|anciano
+Sitis, sitis|sed
+Tempus, temporis|tiempo
+Tiberis, -is|Tíber
+Turris, -is|torre
+Urbs, urbis|ciudad
+Vetus, veteris|viejo, antiguo
+Vis, vis|fuerza, violencia
+De|de, acerca de

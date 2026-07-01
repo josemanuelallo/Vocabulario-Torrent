@@ -1,0 +1,32 @@
+amo, -as, -are, -avi, -atum|amar
+habeo, -es, -ere, habui, habitum|tener
+mitto, -is, -ere, misi, missum|enviar
+audio, -is, -ire, audivi, auditum|oír
+capio, -is, -ere, cepi, captum|coger, tomar, conquistar
+sum, es, esse, fui|ser, estar, existir
+accido, -is, -ere, -cidi|suceder, acontecer
+instruo, -is, -ere, -struxi, -structum|formar, preparar, instruir
+praepono, -is, -ere, -posui, -positum|anteponer, preferir
+adventus, -us|llegada
+belua, -ae|bestia, fiera
+classis, -is|clase, escuadra
+dolor, doloris|dolor
+gaudium, -ii|gozo, alegría
+impedimentum, -i|impedimento, estorbo
+impedimenta, -orum|bagajes, impedimenta
+mos, moris|costumbre
+praesidium, -ii|defensa, guarnición
+signum, -i|señal, signo, enseña, bandera, estandarte, estatua
+solatium, -ii|consuelo
+subsidium, -ii|socorro, ayuda
+voluptas, voluptatis|placer
+etiam|también, incluso
+utinam|ojalá
+vitam agere|llevar la vida, pasar la vida
+magnus, magna, magnum|grande
+miser, misera, miserum|miserable, desdichado
+simplex, simplicis|simple
+duplex, duplicis|doble
+triplex, triplicis|triple
+auxilio|en auxilio, como ayuda
+praesidio|como defensa, como guarnición

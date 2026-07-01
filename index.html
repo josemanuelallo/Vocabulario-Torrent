@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulario TORRENT Latín</title>
+
+    <link rel="stylesheet" href="CSS/estilos.css?v=3">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icono.png">
+<link rel="icon" type="image/png" href="icono.png">
+<meta name="theme-color" content="#2F5D50">
+
+</head>
+<script>
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("./sw.js")
+        .then(() => console.log("Service Worker registrado"))
+        .catch(error => console.log("Error:", error));
+}
+</script>
+<body>
+
+    <div class="contenedor">
+
+        <h1>Vocabulario Latín</h1>
+        <p>Latín para Hispanistas · UNED</p>
+
+        <select id="tema" aria-label="Seleccionar tema">
+           <option value="Tema1.txt">Tema 1</option>
+    <option value="Tema2.txt">Tema 2</option>
+    <option value="Tema3.txt">Tema 3</option>
+    <option value="Tema4.txt">Tema 4</option>
+    <option value="Tema5.txt">Tema 5</option>
+    <option value="Tema6.txt">Tema 6</option>
+    <option value="Tema7.txt">Tema 7</option>
+    <option value="Tema8.txt">Tema 8</option>
+    <option value="Tema9.txt">Tema 9</option>
+    <option value="Tema10.txt">Tema 10</option>
+    <option value="Tema11.txt">Tema 11</option>
+    <option value="Tema12.txt">Tema 12</option>
+    <option value="Tema13.txt">Tema 13</option>
+    <option value="Tema14.txt">Tema 14</option>
+    <option value="Tema15.txt">Tema 15</option>
+    <option value="Tema16.txt">Tema 16</option>
+    <option value="Tema17.txt">Tema 17</option>
+    <option value="Tema18.txt">Tema 18</option>
+    <option value="Tema19.txt">Tema 19</option>
+    <option value="Tema20.txt">Tema 20</option>
+    <option value="Tema21.txt">Tema 21</option>
+    <option value="Tema22.txt">Tema 22</option>
+    <option value="Tema23.txt">Tema 23</option>
+    <option value="Tema24.txt">Tema 24</option>
+    <option value="Tema25.txt">Tema 25</option>
+    <option value="Tema26.txt">Tema 26</option>
+    <option value="Tema27.txt">Tema 27</option>
+    <option value="Tema28.txt">Tema 28</option>
+    <option value="Tema29.txt">Tema 29</option>
+    <option value="Tema30.txt">Tema 30</option>
+    <option value="Tema31.txt">Tema 31</option>
+    <option value="Tema32.txt">Tema 32</option>
+    <option value="Tema33.txt">Tema 33</option>
+    <option value="Tema34.txt">Tema 34</option>
+    <option value="Tema35.txt">Tema 35</option>
+    <option value="Tema36.txt">Tema 36</option>
+    <option value="Tema37.txt">Tema 37</option>
+    <option value="Tema38.txt">Tema 38</option>
+    <option value="Tema39.txt">Tema 39</option>
+   <option value="TotalTorrent.txt">Total Torrent</option>
+        </select>
+
+        <div class="modo-selector">
+
+    <button type="button" class="modo-btn activo" data-modo="latin" aria-pressed="true">
+        Latín → Español
+    </button>
+
+    <button type="button" class="modo-btn" data-modo="espanol" aria-pressed="false">
+        Español → Latín
+    </button>
+
+</div>
+
+        <div class="panel-progreso" aria-label="Progreso del tema">
+            <div class="estadisticas">
+                <span><i class="punto rojo"></i><strong id="contador-rojas">0</strong> No sabidas</span>
+                <span><i class="punto amarillo"></i><strong id="contador-amarillas">0</strong> Dudosas</span>
+                <span><i class="punto verde"></i><strong id="contador-verdes">0</strong> Sabidas</span>
+            </div>
+            <button type="button" id="alternar-repaso">Repasar problemáticas (0)</button>
+        </div>
+
+        <div id="contador"></div>
+
+        <div class="tarjeta-palabra" id="tarjeta-palabra">
+            <span class="indicador-deslizar izquierda">No la sabía</span>
+            <span class="indicador-deslizar derecha">La sabía</span>
+    <div id="palabra"></div>
+    </div>
+
+        <button type="button" id="accion">
+            Mostrar respuesta
+        </button>
+
+        <div class="tarjeta-respuesta">
+    <div id="respuesta"></div>
+</div>
+
+        <div class="evaluacion" id="evaluacion" hidden>
+            <button type="button" class="evaluacion-btn no-sabida" data-estado="rojo">No la sabía</button>
+            <button type="button" class="evaluacion-btn dudosa" data-estado="amarillo">Dudé</button>
+            <button type="button" class="evaluacion-btn sabida" data-estado="verde">La sabía</button>
+        </div>
+
+        <p id="estado" class="estado" aria-live="polite"></p>
+</div>
+
+    </div>
+
+    <script src="js/vocabulario-datos.js?v=4"></script>
+    <script src="js/app.js?v=4"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

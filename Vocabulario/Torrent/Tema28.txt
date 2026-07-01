@@ -1,0 +1,54 @@
+volo, vis, velle, volui|querer
+volo|quiero
+velim|quiera
+volebam|quería
+vellem|quisiera, quisiese, querría
+volam|querré
+nolo, non vis, nolle, nolui|no querer
+nolo|no quiero
+nolim|no quiera
+nolebam|no quería
+nollem|no quisiera
+nolam|no querré
+malo, mavis, malle, malui|preferir
+malo|prefiero
+malim|prefiera
+malebam|prefería
+mallem|preferiría
+malam|preferiré
+magis|más
+noli|no quieras
+nolite|no queráis
+nolito|no quieras, no quiera
+nolitote|no queráis
+nolunto|no quieran
+ne feceris|no hagas
+noli facere|no hagas
+cave facias|no hagas
+ne facias|no hagas
+ne fac|no hagas
+velim facias|quisiera que hagas, quisiera que hicieras
+velim ut facias|quisiera que hagas, quisiera que hicieras
+velim ne facias|quisiera que no hagas, quisiera que no hicieras
+malo hoc quam illud|prefiero esto a aquello
+caveo, -es, -ere, cavi, cautum|tener cuidado, ser precavido, guardarse de
+conficio, -ficis, -ere, -feci, -fectum|hacer completamente, acabar, consumir, agotar
+muto, -as, -are, -avi, -atum|mudar, cambiar, alterar, permutar
+puto, -as, -are, -avi, -atum|considerar, juzgar, creer
+terreo, -es, -ere, -rui, -ritum|aterrar, asustar
+amor, amoris|amor
+Britannia, -ae|Britania
+casus, -us|caso, suceso, eventualidad, casualidad
+mutatio, mutationis|mutación, cambio
+Rhenus, -i|el Rin
+victor, victoris|vencedor
+praeter + acusativo|excepto
+voluntas, voluntatis|voluntad
+dives, divitis|rico
+laetus, laeta, laetum|alegre
+felix, felicis|feliz
+veritas, veritatis|verdad
+pecunia, -ae|dinero, riqueza
+amor, amoris|amor
+lingua Latina|lengua latina
+si vis pacem, para bellum|si quieres la paz, prepara la guerra

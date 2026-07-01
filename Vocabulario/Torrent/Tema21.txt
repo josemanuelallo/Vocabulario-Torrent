@@ -1,0 +1,44 @@
+claudo, -is, -ere, clausi, clausum|cerrar
+cognosco, -is, -ere, cognovi, cognitum|enterarse de, conocer
+condo, -is, -ere, condidi, conditum|fundar, guardar
+consuesco, -is, -ere, consuevi, consuetum|habituarse a, soler
+cresco, -is, -ere, crevi, cretum|crecer
+disco, -is, -ere, didici, discitum|aprender
+incendo, -is, -ere, incendi, incensum|encender, incendiar
+memini, meminisse|recordar
+odi, odisse|odiar
+praedico, -is, -ere, praedixi, praedictum|predecir, anunciar
+reduco, -is, -ere, reduxi, reductum|reducir, replegar, retirar, llevar de nuevo
+suesco, -is, -ere, suevi, suetum|habituarse a, soler
+incendium, -ii|incendio
+Remus, -i|Remo
+Romulus, -i|Rómulo
+cras|mañana
+ruptus, rupta, ruptum|cortado, roto
+nuntiatus, nuntiata, nuntiatum|anunciado
+conditus, condita, conditum|fundado
+porta clausa|puerta cerrada
+porta clausa est|la puerta ha sido cerrada, está cerrada
+porta clausa erat|la puerta había sido cerrada, estaba cerrada
+porta clausa erit|la puerta habrá sido cerrada, estará cerrada
+porta clausa fuit|la puerta estuvo cerrada
+porta clausa fuerat|la puerta había estado cerrada
+porta clausa fuerit|la puerta habrá estado cerrada
+disco, -is, -ere, didici, discitum|aprender, comenzar a saber
+cresco, -is, -ere, crevi, cretum|crecer, hacerse grande
+suesco, -is, -ere, suevi, suetum|habituarse, adquirir una costumbre
+novi|sé, conozco
+noveram|sabía, conocía
+novero|sabré, conoceré
+suevi|acostumbro
+sueveram|acostumbraba
+suevero|acostumbraré
+odi|odio
+oderam|odiaba
+odero|odiaré
+memini|recuerdo
+memineram|recordaba
+meminero|recordaré
+incoativus, incoativa, incoativum|incoativo, inicial
+defectivus, defectiva, defectivum|defectivo
+uxorem ducere|tomar esposa

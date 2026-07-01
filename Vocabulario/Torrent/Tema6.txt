@@ -1,0 +1,46 @@
+Meus, mea, meum|mío, mi
+Tuus, tua, tuum|tuyo, tu
+Suus, sua, suum|suyo, su
+Noster, nostra, nostrum|nuestro
+Vester, vestra, vestrum|vuestro
+Ago, -is, -ere, egi, actum|hacer
+Cerno, -is, -ere, crevi, cretum|ver, distinguir
+Defendo, -is, -ere, -ndi, -nsum|defender
+Dico, -is, -ere, dixi, dictum|decir
+Migro, -as, -are, -avi, -atum|ir, marchar
+Placeo, -es, -ere, -cui, -citum|agradar, gustar, parecer bien
+Scribo, -is, -ere, scripsi, scriptum|escribir
+Vinco, -is, -ere, vici, victum|vencer, dominar
+Vivo, -is, -ere, vixi, victum|vivir
+Absentia, -ae|ausencia
+Audacia, -ae|audacia, valentía
+Bonum, -i|el bien, un bien
+Dictum, -i|dicho, palabra
+Factum, -i|hecho, acción
+Gratia, -ae|gracia, gratitud
+Hispani, -orum|los españoles
+Periculum, -i|peligro
+Saguntini, -orum|los saguntinos
+Verum, -i|verdad
+Falsus, falsa, falsum|falso
+Gratus, grata, gratum|grato, agradable, agradecido
+Molestus, molesta, molestum|molesto
+Otiosus, otiosa, otiosum|ocioso
+Paucus, pauca, paucum|poco
+Rarus, rara, rarum|raro, escaso
+Rectus, recta, rectum|recto
+Strenuus, strenua, strenuum|valiente
+Tardus, tarda, tardum|tardo, lento, perezoso
+Recte|rectamente
+Strenue|valientemente
+Deinde|después
+Minus|menos
+Quoque|también
+Saepe|frecuentemente, a menudo
+Tum|entonces
+Tunc|entonces
+Ex|de, desde
+Inter|entre
+Neque|y no, ni
+Sed|pero
+Gratias agere|dar las gracias

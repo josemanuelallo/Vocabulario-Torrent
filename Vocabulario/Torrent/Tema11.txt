@@ -1,0 +1,64 @@
+et|y
+-que|y
+ac|y
+atque|y
+nec|y no, ni
+neque|y no, ni
+aut|o
+vel|o
+-ve|o
+sive|o, bien
+seu|o, bien
+sed|pero, sino
+verum|pero, sino
+autem|pero, por otra parte
+vero|pero, por otra parte
+at|pero, por otra parte
+tamen|sin embargo
+itaque|así pues, por tanto, por consiguiente, por eso
+igitur|así pues, por tanto, por consiguiente, por eso
+ergo|así pues, por tanto, por consiguiente, por eso
+qua re|así pues, por tanto, por consiguiente, por eso
+quamobrem|así pues, por tanto, por consiguiente, por eso
+nam|pues, porque, en efecto
+namque|pues, porque, en efecto
+enim|pues, porque, en efecto
+etenim|pues, porque, en efecto
+qui, quae, quod|que, el cual, quien
+is, ea, id|éste, él, aquél
+Addūco, -is, -ere, -duxi, -ductum|llevar, traer, aportar
+Appāreo, -es, -ere, -rui, -ritum|aparecer
+Augeo, -es, -ere, auxi, auctum|engrandecer, agrandar, incrementar
+Cupio, -is, -ere, -ivi (-ii), -itum|desear
+Iuro, -as, -are, -avi, -atum|jurar
+Neco, -as, -are, -avi, -atum|matar
+Nescio, -is, -ire, -ivi (-ii), -itum|no saber, ignorar, desconocer
+Nomino, -as, -are, -avi, -atum|nombrar, llamar
+Praeficio, -is, -ere, -feci, -fectum|poner al frente de, dar el mando de
+Promitto, -is, -ere, -misi, -missum|prometer
+Trado, -is, -ere, -didi, -ditum|entregar, dar, transmitir, contar, decir
+Animus, -i|ánimo, espíritu, alma
+Annus, -i|año
+Atrox, atrocis|atroz, terrible, violento
+Campus, -i|campo, terreno llano
+Densus, -a, -um|denso, apiñado
+Exercitus, -us|ejército
+Hannibal, -balis|Aníbal
+Imperium, -ii|mando, dominio
+Mors, mortis|muerte
+Subitus, -a, -um|súbito, repentino
+Summa, -ae|totalidad
+Tempestas, -tatis|tiempo, tempestad
+Post|después
+Post + acusativo|después de
+Quondam|una vez
+Si|si
+Subito|de pronto
+is qui|el que, aquel que
+ea quae|la que, aquella que
+id quod|lo que, aquello que
+ei qui|los que, aquellos que
+eae quae|las que, aquellas que
+ea quae|las cosas que, aquellas cosas que
+summa imperii|mando supremo
+quam maxime|cuanto más, lo más posible

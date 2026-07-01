@@ -1,0 +1,40 @@
+cuius|cuyo, cuya, cuyos, cuyas
+ubi|donde
+unde|de donde
+quo|a donde
+qua|por donde
+quare|por esa causa, por eso
+quamobrem|por esa causa, por eso
+quicumque, quaecumque, quodcumque|cualquiera que, todo el que
+quisquis, quidquid (quicquid)|cualquiera que, todo el que
+ubicumque|donde quiera que
+quocumque|a donde quiera que
+quacumque|por donde quiera que
+undecumque|de donde quiera que
+hic, haec, hoc|éste, ésta, esto
+iste, ista, istud|ése, ésa, eso
+ille, illa, illud|aquél, aquélla, aquello
+Demonstro, -as, -are, -avi, -atum|mostrar, señalar, indicar
+Descendo, -is, -ere, -ndi, -nsum|descender, bajar
+Efficio, -ficis, -ere, -feci, -fectum|hacer, realizar, causar
+Erro, -as, -are, -avi, -atum|errar, equivocarse, vagar
+Floreo, -es, -ere, -ui|florecer, estar floreciente
+Laudo, -as, -are, -avi, -atum|alabar, ensalzar
+Obsideo, -sides, -ere, -sedi, -sessum|sitiar, bloquear
+Peto, -is, -ere, -ivi (-ii), -itum|pedir, pretender, dirigirse a
+Recipio, -cipis, -ere, -cepi, -ceptum|recibir, acoger, retirar
+Servo, -as, -are, -avi, -atum|salvar, conservar
+Taceo, -es, -ere, -cui, -citum|callar, estar callado
+Causa, -ae|causa
+Civis, -is|ciudadano, conciudadano
+Cohors, cohortis|cohorte
+Flumen, fluminis|río
+Galli, -orum|los galos
+Germani, -orum|los germanos
+Maiores, -um|los antepasados
+Mendax, mendacis|embustero, mendaz
+Navis, -is|nave
+Opus, operis|obra, trabajo
+Regio, regionis|región
+Vox, vocis|voz, palabra
+De + ablativo|de, desde, por

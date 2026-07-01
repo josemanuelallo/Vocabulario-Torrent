@@ -1,0 +1,20 @@
+Appropinquo, -as, -are, -avi, -atum|acercarse, aproximarse
+Duco, -is, -ere, duxi, ductum|conducir, guiar, llevar
+Aegyptus, -i|Egipto
+Bos, bovis|buey, vaca
+Caesar, -saris|César
+Capra, -ae|cabra
+Caput, -pitis|cabeza
+Carthago, -ginis|Cartago
+Consul, -sulis|cónsul
+Imperator, -toris|general
+Iter, itineris|camino, viaje, marcha
+Iuppiter, Iovis|Júpiter
+Labor, -oris|trabajo, fatiga
+Miles, -itis|soldado
+Oppugnatio, -onis|asedio
+Pater, -tris|padre
+Praemium, -ii|premio, recompensa
+Rus, ruris|campo
+Scutum, -i|escudo
+Per|por, a través de

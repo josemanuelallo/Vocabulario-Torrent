@@ -1,0 +1,70 @@
+cum|cuando
+ubi|cuando
+ut (uti)|cuando
+cum primum|tan pronto como
+ubi primum|tan pronto como
+ut primum|tan pronto como
+dum|mientras, hasta que
+antequam|antes de que
+anteaquam|antes de que
+priusquam|antes de que
+postquam|después de que
+posteaquam|después de que
+ante|antes
+antea|antes
+prius|antes
+post|después
+postea|después
+ante + acusativo|antes de
+post + acusativo|después de
+quod|porque, como, puesto que
+quia|porque, como, puesto que
+quoniam|porque, como, puesto que
+cum + subjuntivo|porque, como, puesto que
+eo|por esto
+ideo|por esto
+idcirco|por esto
+propterea|por esto
+animadverto, -is, -ere, animadverti, animversum|notar, observar, darse cuenta de
+aperio, -is, -ire, aperui, apertum|abrir, descubrir, manifestar
+cunctor, -aris, -ari, -atus sum|vacilar, dudar
+occido, -is, -ere, occidi, occisum|matar
+transporto, -as, -are, -avi, -atum|transportar
+apertus, aperta, apertum|abierto, claro, llano
+onus, oneris|carga, peso
+ripa, -ae|orilla, ribera, costa
+nimis|demasiado
+venio, -is, -ire, veni, ventum|venir
+exeo, -is, -ire, exii, exitum|salir
+mitto, -is, -ere, misi, missum|enviar
+sentio, -is, -ire, sensi, sensum|darse cuenta, sentir, percibir
+audio, -is, -ire, audivi, auditum|oír
+absum, abes, abesse, afui|estar lejos, distar
+aeger, aegra, aegrum|enfermo
+occisus, occisa, occisum|muerto
+iustus, iusta, iustum|justo
+clamor, clamoris|griterío, clamor
+lux, lucis|luz
+lucem|la luz, el alba
+adventus, -us|llegada
+Britannia, -ae|Britania
+frumentum, -i|trigo
+copia, -ae|abundancia
+copiae, -arum|efectivos, fuerzas
+alter, altera, alterum|otro, el otro, segundo
+ripa, -ae|orilla
+navis, navis|nave
+latus, lata, latum|ancho
+onus, oneris|carga
+spes, spei|esperanza
+aqua, -ae|agua
+corruptus, corrupta, corruptum|corrompido
+audeo, -es, -ere, ausus sum|atreverse
+debeo, -es, -ere, debui, debitum|deber
+proficiscor, -sceris, -sci, profectus sum|ponerse en camino, partir
+domus, -us|casa
+Roma, -ae|Roma
+frater, fratris|hermano
+quae cum ita sint|por tanto, por consiguiente
+facilis, facile|fácil
+facilius|más fácilmente

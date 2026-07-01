@@ -1,0 +1,27 @@
+absum, abes, abesse, afui|estar ausente, estar lejos, distar
+adsum, ades, adesse, adfui|estar presente, estar cerca, presentarse, llegar, ayudar
+desum, dees, deesse, defui|faltar
+insum, ines, inesse, infui|estar en, hallarse
+intersum, interes, interesse, interfui|estar en medio, intervenir, interesar, convenir
+obsum, obes, obesse, obfui|oponerse, perjudicar
+possum, potes, posse, potui|poder
+praesum, praees, praeesse, praefui|estar al frente de, presidir, mandar
+prosum, prodes, prodesse, profui|aprovechar, servir, favorecer
+subsum, subes, subesse|estar debajo, estar oculto, estar cerca
+supersum, superes, superesse, superfui|sobrar, quedar, sobrevivir
+potis, pote|poderoso, capaz
+ab oppido abesse|estar lejos de la ciudad
+longe abesse|distar mucho, estar muy lejos
+aro, -as, -are, -avi, -atum|arar
+oppugno, -as, -are, -avi, -atum|asediar, atacar
+aeger, aegra, aegrum|enfermo
+commeatus, -us|convoy, aprovisionamiento, víveres
+finis, finis|fin, final, límite
+fines, -ium|límites, fronteras, territorio
+frumentarius, frumentaria, frumentarium|relativo al trigo
+res frumentaria|suministro de trigo, cuestión triguera
+frumentum, -i|trigo
+multitudo, multitudinis|multitud
+superior, superius|más alto, anterior
+heri|ayer
+utinam|ojalá

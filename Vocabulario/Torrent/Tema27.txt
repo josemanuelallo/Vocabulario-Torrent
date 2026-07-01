@@ -1,0 +1,67 @@
+fero, fers, ferre, tuli, latum|llevar
+feror|soy llevado
+fer|lleva
+ferte|llevad
+ferto|lleva
+ferto|lleve
+fertote|llevad
+ferunto|lleven
+feram|lleve
+ferar|sea llevado
+ferebam|llevaba
+ferebar|era llevado
+ferri|ser llevado
+latus, lata, latum|llevado
+laturus, latura, laturum|que va a llevar
+ferre|sobrellevar, soportar, tolerar, aguantar
+ferre|presentar, proponer
+ferre|contar, referir, decir
+ferre|obtener, recibir
+adfero, adfers, adferre, adtuli, adlatum|llevar, traer, aportar, ocasionar, anunciar
+affero, affers, afferre, attuli, allatum|llevar, traer, aportar, ocasionar, anunciar
+aufero, aufers, auferre, abstuli, ablatum|llevarse, arrancar, quitar, obtener
+confero, confers, conferre, contuli, conlatum|reunir, aportar, comparar, conferir, aplicar
+conferre arma|trabar combate
+conferre manum|trabar combate
+conferre gradum|trabar combate
+conferre pedem|trabar combate
+conferre signa|trabar combate
+defero, defers, deferre, detuli, delatum|llevar, entregar, declarar, delatar
+differo, differs, differre, distuli, dilatum|diseminar, diferir, dilatar, aplazar
+differo|diferir, diferenciarse
+effero, effers, efferre, extuli, elatum|sacar, elevar, ensalzar, divulgar
+infero, infers, inferre, intuli, inlatum|llevar, lanzar, introducir, causar
+inferre bellum|dirigir la guerra, atacar
+inferre signa|atacar
+offero, offers, offerre, obtuli, oblatum|ofrecer, presentar
+refero, refers, referre, rettuli, relatum|llevar de nuevo, devolver, traer, repetir, referir, proponer
+referre pedem|retroceder, retirarse
+similis, simile|semejante
+eundem|el mismo
+quendam|uno, cierto, alguno
+aggredior, -deris, -di, -gressus sum|acercarse, abordar, atacar
+summitto, -is, -ere, -misi, -missum|poner debajo, someter, abatir, enviar
+subsidium, -ii|refuerzo
+relevum, -i|relevo
+suppeto, -is, -ere, -ivi (-ii), -itum|estar a disposición, bastar
+surripio, -ripis, -ere, -ripui, -reptum|quitar, robar
+caecus, caeca, caecum|ciego
+contumelia, -ae|insulto
+gradus, -us|paso, escalón, grado
+Haedui, -orum|los eduos
+Homerus, -i|Homero
+laus, laudis|alabanza, gloria
+magistratus, -us|magistratura, cargo, magistrado
+prudentia, -ae|prudencia
+scriptor, scriptoris|escritor
+scriptor rerum|historiador
+senectus, senectutis|senectud, vejez
+sermo, sermonis|conversación, lengua, lenguaje, habla
+certe|ciertamente, sin duda, desde luego
+graviter|gravemente, penosamente, pesadamente
+satis|bastante
+statim|en seguida, inmediatamente
+vix|apenas, a duras penas
+auctus, aucta, auctum|incrementado, acrecentado, crecido
+minutus, minuta, minutum|disminuido, debilitado, decrecido
+ex|de acuerdo con, conforme a
